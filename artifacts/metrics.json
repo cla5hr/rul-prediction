@@ -1,0 +1,7 @@
+{
+  "rmse": 15.6505,
+  "mae": 11.8017,
+  "n_test": 100,
+  "model_type": "lstm",
+  "n_params": 55617
+}
